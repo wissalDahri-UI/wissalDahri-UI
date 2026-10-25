@@ -117,11 +117,9 @@ My goal is to continue growing as a Full Stack Developer, gain experience throug
 
 I am motivated to keep learning, collaborate with development teams, and develop innovative digital solutions that address real business needs.
 
-##Connect With Me
+##  Connect With Me
 
-- **GitHub:** [@wissalDahri-UI](https://github.com/wissalDahri-UI)
-- **Location:** Morocco 🇲🇦
-
----
-
+- 💻 **GitHub:** [wissalDahri-UI](https://github.com/wissalDahri-UI)
+- 💼 **LinkedIn:** [Wissal Dahri](https://www.linkedin.com/in/wissal-dahri-859a843b2/)
+- 📧 **Email:** [wdahri449@gmail.com](mailto:wdahri449@gmail.com)
  *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
