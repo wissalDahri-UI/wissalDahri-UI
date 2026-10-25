@@ -1,8 +1,8 @@
-# Wissal Dahri 👩‍💻
+# Wissal Dahri 
 
 **Full Stack Web Development Trainee | OFPPT, Morocco 🇲🇦**
 
-## 👋 Professional Profile
+## Profile
 
 I am a second-year Full Stack Web Development trainee at the **Office of Vocational Training and Employment Promotion (OFPPT), Morocco**.
 
@@ -10,7 +10,7 @@ I am passionate about building modern web applications, designing intuitive user
 
 My training and practical projects have helped me develop skills in frontend and backend development, database management, UI/UX design, software engineering, project management, and DevOps.
 
-## 💼 Internship Experience
+##  Internship Experience
 
 ### OCP — HSE Management Project
 **Internship Project | May 2026**
@@ -36,9 +36,9 @@ The objective was to develop a digital solution to help manage and monitor HSE a
 
 This project helped me strengthen my full stack development skills and understand how digital solutions can support operational safety management.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🦺 HSE Management System
+### HSE Management System
 
 A web application designed to organize HSE activities, track safety incidents, manage equipment and external companies, and monitor key performance indicators.
 
@@ -48,7 +48,7 @@ A web application designed to organize HSE activities, track safety incidents, m
 
 🔗 [View HSE Management on GitHub](https://github.com/wissalDahri-UI/HSE-Management)
 
-### 🏥 Clinique WS — Clinic Management System
+###  Clinique WS — Clinic Management System
 
 A clinic management application designed to centralize healthcare administration and simplify daily operations.
 
@@ -71,7 +71,7 @@ A clinic management application designed to centralize healthcare administration
 
 🔗 [Backend Repository — Laravel](https://github.com/wissalDahri-UI/clinique-ws-backend)
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Frontend Development**
 - HTML5, CSS3, JavaScript ES6+
@@ -101,7 +101,7 @@ A clinic management application designed to centralize healthcare administration
 - Software Architecture
 - Gantt Charts and PERT
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 - Full Stack Web Development
 - Software Engineering and Application Architecture
@@ -111,17 +111,17 @@ A clinic management application designed to centralize healthcare administration
 - DevOps, Cloud Computing and Deployment
 - Collaborative and Agile Development
 
-## 🌱 Professional Objective
+##  Professional Objective
 
 My goal is to continue growing as a Full Stack Developer, gain experience through real-world projects, and contribute to building secure, efficient, maintainable, and user-friendly applications.
 
 I am motivated to keep learning, collaborate with development teams, and develop innovative digital solutions that address real business needs.
 
-## 📫 Connect With Me
+##Connect With Me
 
 - **GitHub:** [@wissalDahri-UI](https://github.com/wissalDahri-UI)
 - **Location:** Morocco 🇲🇦
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
